@@ -1,3 +1,4 @@
+document.querySelector("body").remove();
 if (document.querySelector(".nav-burger-wrapper")) {
   document
     .querySelector(".nav-burger-wrapper")
